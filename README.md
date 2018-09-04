@@ -1,5 +1,5 @@
 # todo-vuetify-typescript
-Dodo app (vuetify, typescript)
+Todo app (vuetify, typescript)
 
 ## Project setup
 ```
