@@ -1,6 +1,9 @@
 # todo-vuetify-typescript
 Todo app (vuetify, typescript)
 
+### Demo
+[https://mslyman.github.io/demo/todo-vuetify-typescript/index.html?](https://mslyman.github.io/demo/todo-vuetify-typescript/index.html?)
+
 ## Project setup
 ```
 npm install
@@ -15,3 +18,4 @@ npm run serve
 ```
 npm run build
 ```
+
